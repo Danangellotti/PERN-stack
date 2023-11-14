@@ -21,6 +21,7 @@
     "md5": "^2.3.0",
     "morgan": "^1.10.0",
     "pg": "^8.11.3",
+    "react-router-dom": "^6.18.0",
     "zod": "^3.22.2"
   },
   "devDependencies": {
