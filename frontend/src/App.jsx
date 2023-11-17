@@ -13,7 +13,7 @@ import AboutPage from "./pages/AboutPage";
 import LoginPage from "./pages/LoginPage";
 import RegisterPage from "./pages/RegisterPage";
 import ProfilePage from "./pages/ProfilePage";
-import TareasPage from "./pages/TareasPage";
+import TareasPage from "./pages/TareaPage";
 import TareaFormPage from "./pages/TareaFormPage";
 import NotFound from "./pages/NotFound";
 

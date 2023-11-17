@@ -23,7 +23,7 @@ function RegisterPage() {
       <Card>
         {setUserErrors &&
           setUserErrors.map((error) => (
-            <p className="bg-red-500 text-white p-2">{error}</p>
+          <p className="bg-red-500 text-white p-2">{error}</p>
           ))}
         <h3 className="text-4xl font-bold my-2">Registro</h3>
         <form onSubmit={onSubmit}>
